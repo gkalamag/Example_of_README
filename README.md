@@ -1,5 +1,6 @@
 # Example_of_README
 An example of a repository
+
 ## Description
 Created by **Magdalini Gkalamelou**
 
